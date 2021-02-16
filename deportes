@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:-1,M. Liga de Campeones
+http://maiptv.com:8080/0099/0099/90980
+#EXTINF:-1,M. Liga de Campeones 1
+http://maiptv.com:8080/0099/0099/90981
+#EXTINF:-1,M. Liga de Campeones 2
+http://maiptv.com:8080/0099/0099/90982
+#EXTINF:-1,M. Liga de Campeones 3
+http://maiptv.com:8080/0099/0099/90983
+#EXTINF:-1,M. Liga de Campeones 4
+http://maiptv.com:8080/0099/0099/90984
+#EXTINF:-1,M. Liga de Campeones 5
+http://maiptv.com:8080/0099/0099/90985
+#EXTINF:-1,M. Liga de Campeones 6
+http://maiptv.com:8080/0099/0099/90986
+#EXTINF:-1,M. Liga de Campeones 7
+http://maiptv.com:8080/0099/0099/90987
+#EXTINF:-1,M. Liga de Campeones 8
+http://maiptv.com:8080/0099/0099/90988
+#EXTINF:-1,M. LaLiga
+http://maiptv.com:8080/0099/0099/90989
+#EXTINF:-1,M. LaLiga 1
+http://maiptv.com:8080/0099/0099/90990
+#EXTINF:-1,M. LaLiga 2
+http://maiptv.com:8080/0099/0099/90991
+#EXTINF:-1,M. LaLiga 3
+http://maiptv.com:8080/0099/0099/90992
+#EXTINF:-1,Barca TV
+http://maiptv.com:8080/0099/0099/90993
+#EXTINF:-1,Real Madrid TV
+http://maiptv.com:8080/0099/0099/90994
+#EXTINF:-1,#Vamos
+http://maiptv.com:8080/0099/0099/90995
+#EXTINF:-1,GOL TV
+http://maiptv.com:8080/0099/0099/90996
+#EXTINF:-1,Teledeporte
+http://maiptv.com:8080/0099/0099/90997
+#EXTINF:-1,M. Deportes
+http://maiptv.com:8080/0099/0099/90998
+#EXTINF:-1,M. Formula 1
+http://maiptv.com:8080/0099/0099/90999
+#EXTINF:-1,M. Golf
+http://maiptv.com:8080/0099/0099/91000
+#EXTINF:-1,Toros TV
+http://maiptv.com:8080/0099/0099/91001
+#EXTINF:-1,Eurosport 1
+http://maiptv.com:8080/0099/0099/91002
+#EXTINF:-1,Eurosport 2
+http://maiptv.com:8080/0099/0099/91003
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Europa Pista Plovdiv 2020" tvg-logo="blob:https://web.telegram.org/8d00902a-27c4-4e71-a302-6bf6facf3957" group-title="PPV CICLISMO",Campeonato Europa Pista Plovdiv 2020
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61662
 #EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO (ꜰʜᴅ)
