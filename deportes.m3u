@@ -385,168 +385,63 @@ https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e3
 
 
 
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5443.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS 2 *FHD" tvg-name="SP | SKY SPORTS 2 *FHD" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS 2 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5445.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS 4 *FHD" tvg-name="SP | SKY SPORTS 4 *FHD" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS 4 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5446.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS ACTION" tvg-name="SP | SKY SPORTS ACTION" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS ACTION
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5439.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS F1 *HD" tvg-name="SP | SKY SPORTS F1 *FHD" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS F1 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5448.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS F1 *FHD" tvg-name="SP | SKY SPORTS F1 *HD" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS F1 *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5433.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS F1 *HD" tvg-name="SP | SKY SPORTS F1 *HD" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS F1 *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5442.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS GOLF" tvg-name="SP | SKY SPORTS GOLF" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS GOLF
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5438.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS MAIN EVENT" tvg-name="SP | SKY SPORTS MAIN EVENT" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS MAIN EVENT
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5441.m3u8
+#EXTINF:-1 tvg-id="SP | SKY SPORTS PREMIER LEAGUE" tvg-name="SP | SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SKY SPORTS PREMIER 
 
-#EXTM3U
-#EXTINF:-1,ESPN 1
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/1
-#EXTINF:-1,ESPN 2
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/2
-#EXTINF:-1,ESPN 3
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/3
-#EXTINF:-1,ESPN EXTRA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/4
-#EXTINF:-1,ESPN DEPORTES
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/5
-#EXTINF:-1,ESPN 1 SUR
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/6
-#EXTINF:-1,ESPN 2 SUR
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/7
-#EXTINF:-1,ESPN 3 SUR
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/8
-#EXTINF:-1,FOX SPORTS 1
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/9
-#EXTINF:-1,FOX SPORTS 2
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/10
-#EXTINF:-1,FOX SPORTS 3
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/11
-#EXTINF:-1,FOX DEPORTES
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/12
-#EXTINF:-1,FOX PREMIUM
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/13
-#EXTINF:-1,MLB NETWORK
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/14
-#EXTINF:-1,GOL PERU
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/15
-#EXTINF:-1,WWE
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/16
-#EXTINF:-1,UFC NETWORK
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/17
-#EXTINF:-1,GOL TV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/18
-#EXTINF:-1,CLARO SPORTS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/19
-#EXTINF:-1,TUDN
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/20
-#EXTINF:-1,TVC DEPORTES
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/21
-#EXTINF:-1,CDF Premium
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/22
-#EXTINF:-1,BEIN SPORTS Ñ
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/23
-#EXTINF:-1,TIGO STORTS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/24
-#EXTINF:-1,DIRECTV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/25
-#EXTINF:-1,DIRECTV 2
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/26
-#EXTINF:-1,DIRECTV PLUS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/27
-#EXTINF:-1,SKY SPORTS 
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/28
-#EXTINF:-1,AYM SPORTS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/29
-#EXTINF:-1,TNT SPORTS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/30
-#EXTINF:-1,WinSports +
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/31
-#EXTINF:-1,VTV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/32
-#EXTINF:-1,M. LA LIGA HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/33
-#EXTINF:-1,M.LIGA CAMPEONES
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/34
-#EXTINF:-1, LA LIGA TV 
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/35
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/36
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/37
-#EXTINF:-1,#V
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/38
-#EXTINF:-1,M.DEPORTES HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/39
-#EXTINF:-1,REAL MADRID
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/40
-#EXTINF:-1,GOLTV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/41
-#EXTINF:-1,GOLF HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/42
-#EXTINF:-1,EUROSPORT 1
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/43
-#EXTINF:-1,EUROSPORTS 2
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/44
-#EXTINF:-1,M. FORMULA 1 
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/46
-#EXTINF:-1,BARCATV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/47
-#EXTINF:-1,NBA TV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/48
-#EXTINF:-1,ESPN 1 USA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/49
-#EXTINF:-1,ESPN 2 USA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/50
-#EXTINF:-1,ESPN U USA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/51
-#EXTINF:-1,USA | Espn News
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/52
-#EXTINF:-1,GOLF CHANNEL
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/54
-#EXTINF:-1,FUTV
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/55
-#EXTINF:-1,OLYMPIC CHANNEL
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/56
-#EXTINF:-1,WAPA 2
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/57
-#EXTINF:-1,EL CANAL DEL FUTBOL
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/58
-#EXTINF:-1,BEIN SPORTS ENG HD
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/59
-#EXTINF:-1,NFL NETWORK
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/60
-#EXTINF:-1,TYC SPORTS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/61
-#EXTINF:-1,FS1 USA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/62
-#EXTINF:-1,FS2 USA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/63
-#EXTINF:-1,FISHING NETWORK
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/64
-#EXTINF:-1,BOX NATION
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/65
-#EXTINF:-1,USA | USA ACC Network
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/66
-#EXTINF:-1,US | MSG NETWORK
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/67
-#EXTINF:-1,BEIN SPORTS XTRA
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/68
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/69
-#EXTINF:-1,AFIZZIONADOS
-http://francotv.ml:25461/ottplayers/LhvS9Vy362/70
+LEAGUE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP | SPECTRUM SPORTSNET" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPECTRUM SPORTSNET
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30198.m3u8
+#EXTINF:-1 tvg-id="SP | SPORT TV1" tvg-name="SP | SPORT TV1" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPORT TV1
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2371.m3u8
+#EXTINF:-1 tvg-id="SP | SPORT TV2" tvg-name="SP | SPORT TV2" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPORT TV2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2372.m3u8
+#EXTINF:-1 tvg-id="SP | SPORT TV3" tvg-name="SP | SPORT TV3" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPORT TV3
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2373.m3u8
+#EXTINF:-1 tvg-id="SP | SPORT TV4" tvg-name="SP | SPORT TV4" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPORT TV4
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2374.m3u8
+#EXTINF:-1 tvg-id="SP | SPORT TV5" tvg-name="SP | SPORT TV5" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SPORT TV5
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2375.m3u8
+#EXTINF:-1 tvg-id="SP | SPORTSMAN CHANNEL" tvg-name="SP | SPORTSMAN" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2019/08/CableSportsmanChannel.jpg" 
+
+group-title="DEPORTES INTERNACIONAL",SP | SPORTSMAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29794.m3u8
+#EXTINF:-1 tvg-id="SP | SPORTSNET NY" tvg-name="SP | SPORTSNET NY" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/sny_c.png" group-
+
+title="DEPORTES INTERNACIONAL",SP | SPORTSNET NY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/22127.m3u8
+#EXTINF:-1 tvg-id="SP | SUPER TENNIS" tvg-name="SP | SUPER TENNIS" tvg-logo="" group-title="DEPORTES INTERNACIONAL",SP | SUPER TENNIS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/22280.m3u8
+#EXTINF:-1 tvg-id="SP | TELEDEPORTE" tvg-name="SP | TELEDEPORTE" tvg-logo="https://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="DEPORTES INTERNACIONAL",SP 
+
+| TELEDEPORTE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1986.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL *HD" tvg-name="SP | TENNIS CHANNEL *HD" tvg-
+
+logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="DEPORTES INTERNACIONAL",SP | 
+
+TENNIS CHANNEL *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1822.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL *HD" tvg-name="SP | TENNIS CHANNEL PLUS" tvg-logo="https://www.sportsbusinessdaily.com/-/media/Images/SBD-
+
+Photos/2014/05/27/TennisChannel2.ashx?la=en" group-title="DEPORTES INTERNACIONAL",SP | TENNIS CHANNEL PLUS
 
 
 
-#EXTINF:0 tvg-logo="https://www.cwpanama.com/images/contents/promotions/1547473907630.jpg" group-title="Deportes",Adrenalina Sports
-https://tinyurl.com/yymq8lpt
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Deportes",AEW Wrestling
-https://tinyurl.com/y3tfqf2a
-#EXTINF:0 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="Deportes",Afizzionados
-https://tinyurl.com/y6bmjgce
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="Deportes",Bein Sports En Español
-https://tinyurl.com/y2tfh7ux
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gtw83rB/ESPN1.png" group-title="Deportes",ESPN Deportes
-https://tinyurl.com/y3xqz33f
-#EXTINF:0 tvg-logo="https://i.ibb.co/LDK9HxR/Fox-Sports1.png" group-title="Deportes",FOX Central
-https://tinyurl.com/y4bnl38u
-#EXTINF:0 tvg-logo="https://marcadegol.com/fotos/2011/01/goltv.jpg" group-title="Deportes",Gol TV
-https://tinyurl.com/yyewqb88
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Deportes",Lucha Libre AAA
-https://tinyurl.com/y5sl4phx
-#EXTINF:0 tvg-logo="0" group-title="Deportes",Movistar Formula 1
-0
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest/scale-to-width-down/340?cb=20160715002304&path-prefix=es" group-title="Deportes",TVC Deportes
-https://tinyurl.com/y4n7y8ur
-#EXTINF:0 tvg-logo="https://static-s.aa-cdn.net/img/ios/353665650/a60a82ec6428db103f79becae243344d" group-title="Deportes",Univision TUDN
-https://tinyurl.com/yy6g5x7y
-#EXTINF:0 tvg-logo="https://i.ibb.co/RS7hRpM/VibeTV.png" group-title="Deportes",Vibe TV
-https://tinyurl.com/y2d5pwym
+
